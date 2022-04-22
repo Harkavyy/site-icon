@@ -1,0 +1,120 @@
+.box-main{
+    width: 1100px;
+    height: 220px;
+    background-color: beige;
+}
+.box-main1{
+width: 1080px;
+height: 210px;
+box-sizing: border-box;
+border: 1px solid orange;
+background-color: white;
+display: flex;
+justify-content: baseline;
+
+}
+.cub{
+    width: 25px;
+    height: 25px;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.one{
+    color: white;
+    font-size: 700;
+}
+.logo{
+width: 75px;
+height: 75px;
+margin-top: 60px;
+margin-left: 50px;
+}
+.ochki-line{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    align-content: flex-end;
+    justify-content: baseline;
+    height: 40px;
+    margin-left: 100px;
+}
+.glaz-line {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    align-items: flex-end;
+    margin-left: -380px;
+
+}
+.text{
+    font-size: 30px;
+    font-size: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -335px;
+
+}
+p1{
+    width: 700px;
+    height: 50px;
+    
+}
+.box-ochki{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 90px;
+height: 40px;
+margin-left: 35px;
+}
+.box-glaz{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: orange;
+    justify-content: space-between;
+    width: 135px;
+    height: 40px;
+    margin-left: -320px;
+}
+.box-kolokol{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 125px;
+height: 40px;
+margin-left: 60px;
+}
+.box-clock{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+width: 140px;
+height: 40px;
+margin-left: 100px;
+}
+.text3{
+    font-size: 20px;
+    font-weight: 200;
+    color: grey;
+}
+.text2{
+font-size: 20px;
+font-weight: 200;
+color: orange;
+}
+i{
+color: grey;
+}
+p{
+font-size: 20px;
+font-weight: 200;
+color: grey;
+}
