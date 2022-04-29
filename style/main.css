@@ -1,0 +1,666 @@
+.box-top{
+    position: absolute;
+    width: 1600px;
+    height: 72px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FFFFFF;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.08);
+}
+.logo{
+position: absolute;
+width: 184px;
+height: 34px;
+left: 244px;
+top: 19px;
+}
+.men{
+    position: absolute;
+    left: 7.97%;
+    right: 7.97%;
+    top: 57.97%;
+    bottom: 0%;
+}
+.glavnaya{
+    position: absolute;
+    width: 65px;
+    height: 72px;
+    left: 793px;
+    top: 0px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #222B3A;
+}
+.glavnaya1{
+position: absolute;
+width: 63px;
+height: 20px;
+left: 245px;
+top: 584px;
+font-family: 'Proxima Nova';
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+
+color: #979FAD;
+}
+.materialy{
+    position: absolute;
+    width: 153px;
+    height: 72px;
+    left: 893px;
+    top: 0px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.kalendar{
+    position: absolute;
+    width: 144px;
+    height: 72px;
+    left: 1081px;
+    top: 0px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.voiti{
+    position: absolute;
+    width: 57px;
+    height: 72px;
+    left: 1313px;
+    top: 0px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.box-second{
+    position: absolute;
+    width: 1602px;
+    height: 513px;
+    left: -2px;
+    top: 70px;
+    background: #296DCE;
+}
+img{
+ position: absolute;
+width: 339px;
+height: 479px;
+left: 800px;
+top: 104px;
+}
+.akademia{
+    position: absolute;
+    width: 622px;
+    height: 184px;
+    left: 244px;
+    top: 63px;
+    
+    font-family: 'Intro ';
+    font-size: 38px;
+    line-height: 53px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+.podrobnee{
+    position: absolute;
+    width: 209px;
+    height: 44px;
+    left: 245px;
+    top: 278px;
+    
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 20px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: #FFFFFF 1px solid;
+    box-sizing: border-box;
+    
+    color: #FFFFFF;
+}
+.foto-k{
+   position: absolute;
+    width: 339px;
+    height: 479px;
+    left: 140px;
+    top: -70px;
+
+}
+.karpachev{
+
+    font-family: Intro;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: left;
+    color:  #FF8A00;
+    position: absolute;
+    width: 318px;
+    height: 32px;
+    left: 245px;
+    top: 218px;
+}
+.shkala{
+    position: absolute;
+    width: 468px;
+    height: 15px;
+    left: 245px;
+    top: 397px;
+    
+    background: #F3F3F3;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+.shkala-mini{
+
+    position: absolute;
+    width: 259px;
+    height: 9px;
+    left: 248px;
+    top: 399px;
+    
+    background: #296DCE;
+    border-radius: 2px;
+}
+.desyat{
+    position: absolute;
+    width: 40px;
+    height: 42px;
+    left: 244px;
+    top: 413px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 38px;
+    line-height: 42px;
+    color: #FFFFFF;
+}
+.tem{
+    position: absolute;
+        width: 20px;
+        height: 31px;
+        left: 293px;
+        top: 414px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 14px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+.shest{
+    position: absolute;
+    width: 24px;
+    height: 42px;
+    left: 484px;
+    top: 413px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 38px;
+    line-height: 42px;
+     color: #FFFFFF;
+}
+.tem1{
+    position: absolute;
+    width: 76px;
+    height: 31px;
+    left: 517px;
+    top: 414px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 14px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+
+.kursy{
+    position: absolute;
+    width: 48px;
+    height: 20px;
+    left: 358px;
+    top: 584px;
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #979FAD;
+}
+.sostav-kursa{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    left: 457px;
+    top: 584px;
+    
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    
+    color: #323232;
+}
+.line{
+    position: absolute;
+    width: 22px;
+    height: 0px;
+    left: 321px;
+    top: 584px;
+    border: 1px solid #979FAD;
+}
+.box-tema-kursa {
+    position: absolute;
+    width: 1599px;
+    height: 99px;
+    left: 1px;
+    top: 732px;
+    background: #FAFAFA;
+}
+.line2{
+    position: absolute;
+    width: 22px;
+    height: 0px;
+    left: 245px;
+    top: -50px;
+    border: 2px solid #222B3A;
+    background-color: #222B3A;
+}
+.tema-kursa{
+    position: absolute;
+    width: 141px;
+    height: 42px;
+    left: 279px;
+    top: -54px;
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #222B3A;
+}
+.next{
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    top: 800px;
+    left: 40px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+.next1{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: baseline;
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+}
+.next2{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 0px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+}
+.next3{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 30px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+    
+}
+.next4{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 20px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+    
+}
+.next5{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 20px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+    
+}
+.next6{
+    width: 1110px;
+    height: 203px;
+    left: 246px;
+    margin-top: 20px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.03);
+    border-radius: 3px;
+    
+}
+.chislo{
+    position: absolute;
+    width: 148px;
+    height: 201px;
+    color: #E1E1E1;
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    margin-left: 250px;
+    margin-top: -20px;
+}
+.vagnye{
+    width: 519px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-family: 'Proxima Nova';
+    font-size: 24px;
+    line-height: 29px;
+    margin-left: 366px;
+    margin-top: -12px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    
+    color: #1092CB;
+}
+.do-3-let{
+    position: absolute;
+    width: 135px;
+    height: 20px;
+    
+    
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 380px;
+    margin-top: 18px;
+    
+    color: #979FAD;
+}
+.vertikal{
+    position: absolute;
+    width: 87px;
+    height: 9px;
+    margin-left: 1220px;
+    margin-top: 80px;
+    
+    
+    background: linear-gradient(90deg, #0099DD 0%, #178EC2 100%);
+    border-radius: 1px;
+    transform: rotate(-90deg);
+}
+.vertikal1{
+    position: absolute;
+    width: 121px;
+    height: 15px;
+    margin-left: 1205px;
+    margin-top: 70px;
+    
+    backgroud: #F3F3F3;
+    border: 1px solid #E6E6E6;
+    box-sizing: border-box;
+    border-radius: 3px;
+    transform: rotate(-90deg);
+}
+.procent{
+    position: absolute;
+    width: 28px;
+    height: 18px;
+    margin-left: 1250px;
+    margin-top: -5px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    
+    color: #323232;
+}
+.datacvet{
+    color: orange;
+
+}
+.podv{
+    position: absolute;
+    width: 1602px;
+    height: 48px;
+    left: -2px;
+    top: 0px;
+}
+.v-module{
+    position: absolute;
+    width: 799px;
+    height: 71px;
+    margin-left: 340px;
+    margin-top: 50px;
+    
+    
+    font-family: 'Proxima Nova';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    
+    color: #696969;
+}
+.text-dostupno{
+    position: absolute;
+    width: 208px;
+    height: 28px;
+    margin-left: 370px;
+    margin-top: 110px;
+    
+    
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 27px;
+    color: #696969;
+}
+.colonka1{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+    margin-left: 249px;
+    margin-top: 40px;
+    
+}
+.colonka2 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    margin-left: 4px;
+    margin-top: 36px;
+
+}
+.colonka3{
+width: 300px;
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+margin-left: -42px;
+margin-top: 36px;
+}
+.colonka4 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    margin-left: 45px;
+    margin-top: 34px;
+}
+.podv{
+    position: absolute;
+    width: 1599px;
+    height: 350px;
+    left: 1px;
+    top: 2151px;
+    display: flex;
+    
+    background: #0099DD;
+}
+.podv1{
+    position: absolute;
+    width: 1599px;
+    height: 47px;
+    left: 1px;
+    top: 2501px;
+    
+    background: #222B3A;
+}
+.onlinesh{
+    width: 180px;
+    height: 30px;
+    left: 245px;
+    top: 2188px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.defis{
+margin-bottom: 15px;
+    width: 30px;
+    height: 3px;
+    left: 245px;
+    top: 2230px;
+    
+    background: #FFFFFF;
+}
+.o-shkole{
+    margin-bottom: 15px;
+    width: 180px;
+    height: 20px;
+    left: 245px;
+    top: 2258px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.o-avtore{
+    margin-bottom: 15px;
+    width: 300px;
+    height: 20px;
+    left: 245px;
+    top: 2286px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.vopros-otvet{
+    margin-bottom: 15px;
+    width: 200px;
+    height: 20px;
+    left: 245px;
+    top: 2316px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+.otzyv{
+    margin-bottom: 15px;
+    width: 200px;
+    height: 20px;
+    left: 245px;
+    top: 2346px;
+    
+    font-family: 'Proxima Nova';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
