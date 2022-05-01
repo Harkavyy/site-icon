@@ -1,3 +1,4 @@
+
 .box-top{
     position: absolute;
     width: 1600px;
@@ -29,7 +30,7 @@ top: 19px;
     left: 793px;
     top: 0px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto';
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
@@ -45,7 +46,8 @@ width: 63px;
 height: 20px;
 left: 245px;
 top: 584px;
-font-family: 'Proxima Nova';
+font-family: 'Roboto',
+sans-serif;
 font-size: 16px;
 line-height: 19px;
 display: flex;
@@ -60,7 +62,8 @@ color: #979FAD;
     left: 893px;
     top: 0px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 16px;
     line-height: 19px;
     display: flex;
@@ -74,7 +77,8 @@ color: #979FAD;
     left: 1081px;
     top: 0px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 16px;
     line-height: 19px;
     display: flex;
@@ -88,7 +92,8 @@ color: #979FAD;
     left: 1313px;
     top: 0px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 16px;
     line-height: 19px;
     display: flex;
@@ -194,7 +199,8 @@ top: 104px;
     left: 244px;
     top: 413px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 38px;
     line-height: 42px;
     color: #FFFFFF;
@@ -206,7 +212,8 @@ top: 104px;
         left: 293px;
         top: 414px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 14px;
     line-height: 15px;
     
@@ -219,7 +226,7 @@ top: 104px;
     left: 484px;
     top: 413px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto';
     font-size: 38px;
     line-height: 42px;
      color: #FFFFFF;
@@ -231,7 +238,8 @@ top: 104px;
     left: 517px;
     top: 414px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 14px;
     line-height: 15px;
     
@@ -244,7 +252,8 @@ top: 104px;
     height: 20px;
     left: 358px;
     top: 584px;
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 16px;
     line-height: 19px;
     display: flex;
@@ -258,7 +267,8 @@ top: 104px;
     left: 457px;
     top: 584px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 16px;
     line-height: 19px;
     display: flex;
@@ -297,7 +307,8 @@ top: 104px;
     height: 42px;
     left: 279px;
     top: -54px;
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 22px;
@@ -399,7 +410,8 @@ top: 104px;
     width: 148px;
     height: 201px;
     color: #E1E1E1;
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 64px;
     line-height: 78px;
@@ -412,8 +424,10 @@ top: 104px;
     display: flex;
     align-items: center;
     text-align: center;
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-size: 24px;
+    font-weight: 700;
     line-height: 29px;
     margin-left: 366px;
     margin-top: -12px;
@@ -428,7 +442,8 @@ top: 104px;
     height: 20px;
     
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 19px;
@@ -469,7 +484,8 @@ top: 104px;
     margin-left: 1250px;
     margin-top: -5px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 14px;
     line-height: 17px;
@@ -495,7 +511,8 @@ top: 104px;
     margin-top: 50px;
     
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 27px;
@@ -510,7 +527,8 @@ top: 104px;
     margin-top: 110px;
     
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 27px;
@@ -524,7 +542,7 @@ top: 104px;
     text-align: center;
     margin-left: 249px;
     margin-top: 40px;
-    
+    margin-bottom: 20px;
 }
 .colonka2 {
 
@@ -534,6 +552,7 @@ top: 104px;
     text-align: left;
     margin-left: 4px;
     margin-top: 36px;
+    margin-bottom: 20px;
 
 }
 .colonka3{
@@ -552,6 +571,7 @@ margin-top: 36px;
     text-align: left;
     margin-left: 45px;
     margin-top: 34px;
+    margin-bottom: 20px;
 }
 .podv{
     position: absolute;
@@ -578,7 +598,8 @@ margin-top: 36px;
     left: 245px;
     top: 2188px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 700;
     font-size: 24px;
     line-height: 29px;
@@ -605,7 +626,8 @@ margin-bottom: 15px;
     left: 245px;
     top: 2258px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -622,7 +644,7 @@ margin-bottom: 15px;
     left: 245px;
     top: 2286px;
     
-    font-family: 'Proxima Nova';
+    font-family: '';
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -638,7 +660,8 @@ margin-bottom: 15px;
     left: 245px;
     top: 2316px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+    sans-serif;
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -654,7 +677,8 @@ margin-bottom: 15px;
     left: 245px;
     top: 2346px;
     
-    font-family: 'Proxima Nova';
+    font-family: 'Roboto',
+sans-serif;
     font-weight: 600;
     font-size: 16px;
     line-height: 19px;
@@ -663,4 +687,23 @@ margin-bottom: 15px;
     align-items: center;
     
     color: #FFFFFF;
+}
+@font-face {
+    font-family: "Intro-Regular";
+    src: url("../fonts/intro-regular/intro-regular.eot");
+    /* IE9 Compat Modes */
+    src: url("../fonts/intro-regular/intro-regular.eot?#iefix") format("embedded-opentype"),
+        /* IE6-IE8 */
+        url("../fonts/intro-regular/intro-regular.otf") format("opentype"),
+        /* Open Type Font */
+        url("../fonts/intro-regular/intro-regular.svg") format("svg"),
+        /* Legacy iOS */
+        url("../fonts/intro-regular/intro-regular.ttf") format("truetype"),
+        /* Safari, Android, iOS */
+        url("../fonts/intro-regular/intro-regular.woff") format("woff"),
+        /* Modern Browsers */
+        url("../fonts/intro-regular/intro-regular.woff2") format("woff2");
+    /* Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
 }
